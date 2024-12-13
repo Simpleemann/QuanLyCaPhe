@@ -1,0 +1,13 @@
+C:\c#\QLCF\QLCF\bin\Debug\QLCF.exe.config
+C:\c#\QLCF\QLCF\bin\Debug\QLCF.exe
+C:\c#\QLCF\QLCF\bin\Debug\QLCF.pdb
+C:\c#\QLCF\QLCF\obj\Debug\QLCF.csprojAssemblyReference.cache
+C:\c#\QLCF\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+C:\c#\QLCF\QLCF\obj\Debug\QLCF.csproj.GenerateResource.cache
+C:\c#\QLCF\QLCF\obj\Debug\QLCF.csproj.CoreCompileInputs.cache
+C:\c#\QLCF\QLCF\obj\Debug\QLCF.exe
+C:\c#\QLCF\QLCF\obj\Debug\QLCF.pdb
+C:\c#\QLCF\QLCF\obj\Debug\QLCF.fLogin.resources
+C:\c#\QLCF\QLCF\obj\Debug\QLCF.fTableManager.resources
+C:\c#\QLCF\QLCF\obj\Debug\QLCF.fAccountProfile.resources
+C:\c#\QLCF\QLCF\obj\Debug\QLCF.fAdmin.resources
